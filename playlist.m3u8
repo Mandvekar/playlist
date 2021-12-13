@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
+#EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml"
 #EXTINF:1 tvg-logo="http://192.168.0.108:3500/channelLogo/Color_Cineplex_HD.png" group-title="Movies",Colors Cineplex HD 
 http://192.168.0.108:3500/getm3u8/1477/Color_Cineplex_HD/yes
 #EXTINF:1 tvg-logo="http://192.168.0.108:3500/channelLogo/Colors_Kannada_Cinema.png" group-title="Movies",Colors Kannada Cinema 
